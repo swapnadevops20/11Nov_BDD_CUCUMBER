@@ -13,11 +13,7 @@ public class RediffStepDefinition1 {
 	
 	WebDriver driver;
 	
-	@Given("I am on ebayHomepage")
-	public void i_am_on_ebayHomepage() {
-	System.out.println("HomePage") ;   
-	}
-
+	
 	 
 	 @Given("I am on RediffPage")
 	 public void I_am_on_RediffPage()
