@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="42.183">
+<testcase classname="Rediff Login page" name="Enter email and password on rediffPage" time="11.671">
+<system-out><![CDATA[Given I am on RediffPage....................................................passed
+When I enter EmailID 'swapna04@gmail.com' & Password 'abc@123'..............passed
+And click on Login..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Rediff Login page" name="Enter email and password on rediffPage 2" time="10.788">
+<system-out><![CDATA[Given I am on RediffPage....................................................passed
+When I enter EmailID 'sai@gmail.com' & Password 'admin@123'.................passed
+And click on Login..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Rediff Login page" name="Enter email and password on rediffPage 3" time="10.003">
+<system-out><![CDATA[Given I am on RediffPage....................................................passed
+When I enter EmailID 'SaiGuruPriyaReddy@gmail.com' & Password 'emp@123'.....passed
+And click on Login..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Rediff Login page" name="Enter email and password on rediffPage 4" time="9.427">
+<system-out><![CDATA[Given I am on RediffPage....................................................passed
+When I enter EmailID 'Padmavathi@gmail.com' & Password 'paddu@123'..........passed
+And click on Login..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
